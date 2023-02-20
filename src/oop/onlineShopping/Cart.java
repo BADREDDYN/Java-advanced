@@ -1,4 +1,4 @@
-package oop.library.onlineShopping;
+package oop.onlineShopping;
 
 import java.util.ArrayList;
 

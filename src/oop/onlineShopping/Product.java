@@ -1,4 +1,4 @@
-package oop.library.onlineShopping;
+package oop.onlineShopping;
 
 public class Product {
 
